@@ -1,0 +1,12 @@
+
+.box {
+  width: 800px;
+  height: 800px;
+  border: solid 5px;
+  padding: 0px;
+  margin-top: 30px;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-bottom: 50px;
+  border-color: yellow;
+}
